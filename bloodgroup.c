@@ -6,7 +6,7 @@ void main()
   do
   {
     printf("What is your name? ");
-    scanf("%s", Name);
+    scanf("%s", name);
     do
     {
       printf("What is your blood group [A, B, AB, or O]? ");
